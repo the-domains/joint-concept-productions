@@ -1,0 +1,28 @@
+name: Joint Concept Productions
+favicon: null
+layout_spectrum: 0.8493031361140311
+typography_spectrum: 0.1982339438982308
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.43748357030563056
+  lightness: 0.9351255723740906
+  saturation: 0.5629479519557208
+  rhythmicContrast: 0.9091246041934937
+purpose: []
